@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2371ff"],{fa7e:function(e,n,t){"use strict";t.r(n);var s=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"user"},[e._v("\n  TODO\n")])},u=[],c=t("2877"),l={},r=Object(c["a"])(l,s,u,!1,null,null,null);r.options.__file="user-center.vue";n["default"]=r.exports}}]);

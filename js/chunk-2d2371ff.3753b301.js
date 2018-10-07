@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2371ff"],{fa7e:function(e,n,u){"use strict";u.r(n);var l,o,s=u("2877"),t={},c=Object(s["a"])(t,l,o,!1,null,null,null);c.options.__file="user-center.vue",n["default"]=c.exports}}]);
